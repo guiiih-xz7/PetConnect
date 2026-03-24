@@ -25,5 +25,5 @@ Este repositório contém a documentação ágil do projeto, dividida da seguint
 * `README.md`: Descrição geral e objetivo do sistema.
 * `Backlog.md`: Lista completa com as 30 tarefas do produto, priorizadas pelo PO.
 * `Sprint.md`: Organização da Sprint atual, tarefas e prazos definidos pelo SM.
-* `[Nome do Integrante 1].md`: Descrição técnica das atividades realizadas pelo dev.
-* `[Nome do Integrante 2].md`: Descrição técnica das atividades realizadas pelo dev.
+* `Guilherme-Guiné.md`: Descrição técnica das atividades realizadas pelo dev.
+* `Guilherme-Boeira.md`: Descrição técnica das atividades realizadas pelo dev.
