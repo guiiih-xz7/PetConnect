@@ -1,6 +1,6 @@
 # 📋 Backlog do Produto - PetConnect
 
-**Responsável (Product Owner):** [Nome do Integrante 1]
+**Responsável (Product Owner):** Guilherme Guiné
 
 Este documento contém a lista de todas as funcionalidades, requisitos e tarefas técnicas necessárias para o desenvolvimento do sistema PetConnect. As tarefas estão organizadas por módulos e priorizadas para as futuras Sprints.
 
