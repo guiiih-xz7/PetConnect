@@ -13,12 +13,12 @@ O PetConnect é um sistema de gestão voltado para abrigos de animais e ONGs de 
 * Metodologia Ágil: Scrum
 * Gestão de Tarefas: Kanban (Trello)
 * Versionamento de Código: Git e GitHub
-* Linguagens e Frameworks: [Coloque aqui o que vão usar, ex: HTML, CSS, JavaScript, Node.js]
-* Banco de Dados: [Coloque aqui o banco, ex: MySQL, PostgreSQL]
+* Linguagens e Frameworks: Python
+* Banco de Dados: PostgreSQL
 
 ## Equipe Desenvolvedora
-* **[Nome do Integrante 1]:** Product Owner (PO) e Desenvolvedor(a)
-* **[Nome do Integrante 2]:** Scrum Master (SM) e Desenvolvedor(a)
+* **Guilherme Guiné:** Product Owner (PO) e Desenvolvedor(a)
+* **Guilherme Boeira:** Scrum Master (SM) e Desenvolvedor(a)
 
 ## Estrutura de Documentação
 Este repositório contém a documentação ágil do projeto, dividida da seguinte forma:
