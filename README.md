@@ -17,8 +17,8 @@ O PetConnect é um sistema de gestão voltado para abrigos de animais e ONGs de 
 * Banco de Dados: PostgreSQL
 
 ## Equipe Desenvolvedora
-* **Guilherme Guiné:** Product Owner (PO) e Desenvolvedor(a)
-* **Guilherme Boeira:** Scrum Master (SM) e Desenvolvedor(a)
+* **Guilherme Guiné:** Product Owner (PO) e Desenvolvedor
+* **Guilherme Boeira:** Scrum Master (SM) e Desenvolvedor
 
 ## Estrutura de Documentação
 Este repositório contém a documentação ágil do projeto, dividida da seguinte forma:
