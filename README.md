@@ -1,4 +1,4 @@
-# 🐾 PetConnect
+# PetConnect
 
 ## Descrição do Projeto
 O PetConnect é um sistema de gestão voltado para abrigos de animais e ONGs de resgate. O objetivo principal da plataforma é centralizar e otimizar o controle de entrada e saída de pets, gerenciar o estoque de suprimentos e facilitar o processo de adoção, conectando animais resgatados a possíveis tutores de forma segura e organizada.
