@@ -1,10 +1,10 @@
-# 🏃 Organização da Sprint 1 - PetConnect
+#  Organização da Sprint 1 - PetConnect
 
 **Scrum Master:** Guilherme Boeira
 **Duração da Sprint:** 2 semanas
 **Objetivo da Sprint:** Estruturar a base de dados inicial, criar a autenticação de usuários e o cadastro básico de animais (MVP).
 
-## 🎯 Tarefas e Responsáveis
+##  Tarefas e Responsáveis
 
 Abaixo estão as tarefas selecionadas do Backlog para esta Sprint, divididas entre a equipe de desenvolvimento:
 
